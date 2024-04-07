@@ -1,2 +1,4 @@
-2001:67c:e3c::/56,NL,NL-FL,Dronten,
-2001:67c:e3c:100::/56,NL,NL-FL,Almere Stad,
+2001:67c:e3c::/48,NL,NL-FL,Almere Stad,
+2a10:ccc0:140::/48,NL,NL-DR,Meppel,
+2a10:ccc0:141::/48,NL,NL-FL,Dronten,
+2a10:ccc0:142::/48,NL,NL-NH,Amsterdam,
