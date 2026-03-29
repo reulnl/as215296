@@ -10,3 +10,5 @@
 103.147.153.96/29,NL,NL-OV,Enschede,
 103.147.153.0/24,NL,NL-NH,Amsterdam,
 103.147.153.64/27,NL,NL-NH,Amsterdam,
+2a06:de00:1000::/44,NL,NL-NH,Amsterdam,
+167.104.55.0/24,NL,NL-NH,Amsterdam,
